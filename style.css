@@ -1,5 +1,23 @@
-img {
-   width:200px;
-   height:auto;
+body {
+   font-family: "Montserrat", sans-serif;
+   
 }
 
+.box {
+   display: flex;
+   flex-wrap: wrap;
+
+}
+
+img{
+object-fit: contain;
+flex:1 200px;
+width: 100%;
+height: auto;
+}
+
+
+p {
+   display: block;
+   color: black;
+}

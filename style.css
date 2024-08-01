@@ -29,3 +29,9 @@ p {
    object-position: center;
 
 }
+
+/* html, body, head {
+   width: 100%;
+   height: 100%;
+   background-image: linear-gradient(to top, #2507cf 0%, #10a7de 100%);
+} */
